@@ -1,4 +1,4 @@
-# vcard
-Virtual Business Card
+# Virtual Business Card
+vcard
 
 https://kmatyushina.github.io/vcard
